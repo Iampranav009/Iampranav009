@@ -1,42 +1,50 @@
+<div align="center">
+
 # Hi, I'm Pranav Shinde 👋
 
-**@Iampranav009** — developer who loves building tools and AI stuff.
+**Builder · Founder · CS Student**
 
-I'm studying Computer Science engineering at Jawaharlal Darda Institute of Technology (JDIET), Yavatmal — Sant Gadge Baba Amravati University — and I'm interested in technology, robotics, and business. Most of what I build starts as a real problem I ran into — then turns into a working product.
+Founder, Himmer AI — no-code AI apps · **20,000+ users**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iampranav009/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iampranav_009)
+
+</div>
 
 ## About Myself
 
-I'm a developer who loves building tools and AI products. I use ChatGPT, Claude, and other AI tools to build things that solve real problems — from apps and websites to AI-powered tools.
+- 🧑‍💻 Developer who loves building tools and AI products that solve real problems.
+- 🚀 Founder & CEO, **Himmer AI** — no-code AI platform for production-grade web apps. First SaaS at 16.
+- 🎓 BE Computer Science, JDIET Yavatmal — Sant Gadge Baba Amravati University, 2024–28.
 
-I'm a Computer Science student at Sant Gadge Baba Amravati University / JDIET, Yavatmal (BE, 2024–2028). I built my first SaaS when I was 16, and I'm passionate about creating digital products and experiences.
+**20,000+ users · Google Cloud for Startups · AWS Summit Bangalore 2026 · AWS Student Builder Group Leader**
 
-I'm the Founder & CEO of Himmer AI — a no-code AI platform for building production-grade web apps, with 20,000+ users. I'm also an AWS Student Builder Group Leader and GenAI Faculty member, and Founder & President of the Entrepreneurship Cell at JDIET, where I'm building the first startup community for my region.
+## 🛠️ Tech
 
-## My Work
+![Tech stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,java,css,tailwind,nodejs,python,supabase,firebase,prisma,vercel,aws,wordpress&theme=dark)
 
-- **Himmer AI** — Founder & CEO. A no-code AI app builder for production-grade web apps, with Deep RAG, Deep Agent, and Smart Search. 20,000+ users, selected for Google Cloud for Startups, and selected to showcase at AWS Summit Bangalore, Aug 2026.
-- **A fitness app** — building with Codex
-- **An e-commerce hub** — a platform where multiple vendors can develop and manage their own e-commerce stores, offered as an agency service
-- **My portfolio website** — in progress
-- **A hackathon in January** — organising it, and designing graphics for the Frequency X event
-- **E-Cell JDIET** — Founder & President since Oct 2024. Built the region's first startup ecosystem, organised Startup Sprint 2025 and other events, and signed an MoU with SINE, IIT Bombay.
-- **AWS Student Builder** — Group Leader and GenAI Faculty member, Yavatmal.
+## 🤖 Tools
 
-## Featured projects
+**Coding:** Anti Gravity · Cursor · Claude Code · Codex · Muse
+**Chat & Research:** ChatGPT · Gemini · Perplexity · Grok · NotebookLM
+**Build & Create:** V0 · Higgsfield · Da Vinci · Google Flow · Google AI Studio · Canva · Picsart · VN
+**Voice:** Whisper Flow — voice-to-text for coding
+**Cloud & Deploy:** AWS · Vercel · Hostinger · Expo Go
+**Platforms:** WordPress · WooCommerce · Notion
+**Payments & Shipping:** Razorpay · Cashfree · Shiprocket
+
+## 📊 GitHub Stats
+
+
+## 🚀 Featured Projects
 
 | Project | What it does |
 | --- | --- |
-| [HIMMER — print](https://github.com/Iampranav009/print) | Self-serve print platform: scan a shop QR, upload a document, pay via UPI, and pick up the printout. Next.js PWA + Supabase + Python print agent. |
-| [Practical Portal](https://github.com/Iampranav009/Practical-portal-frontend) | Learning platform for students and teachers — batches, practical submissions, and announcements. Next.js frontend + Node.js/Express backend. |
-| [Rupaya Split — trip-split](https://github.com/Iampranav009/trip-split) | Mobile-first app for splitting group trip expenses, with Firebase sync, PDF export, and WhatsApp sharing. |
-| [Memory Glasses — memory35](https://github.com/Iampranav009/memory35) | Records audio and auto-captures images, transcribes with OpenAI Whisper, and summarises memories with GPT-4. |
-| [NagarFix](https://github.com/Iampranav009/NagarFix) | Smart municipal grievance system for Indian Tier 2/3 cities — citizens report issues via WhatsApp or web, AI categorises them, and ward workers track them to completion. |
-| [aws-swagh](https://github.com/Iampranav009/aws-swagh) | Web app for the AWS Student Builder Group at JDIET — join, refer friends, earn points, and climb the leaderboard. |
+| [NagarFix](https://github.com/Iampranav009/NagarFix) | AI municipal grievance system for Tier 2/3 Indian cities. |
+| [aws-swagh](https://github.com/Iampranav009/aws-swagh) | Web app for the AWS Student Builder Group at JDIET. |
+| [Practical Portal](https://github.com/Iampranav009/Practical-portal-frontend) | Learning platform — batches, practical submissions, announcements. |
+| [trip-split](https://github.com/Iampranav009/trip-split) | Split group trip expenses, with Firebase sync and PDF export. |
 
-## Tech I use
+## 📫 Connect
 
-TypeScript · JavaScript · Next.js · React · Tailwind CSS · Node.js · Java · Python · Supabase · Firebase · Prisma
-
-## Connect with me
-
-- Instagram: [@iampranav_009](https://www.instagram.com/iampranav_009)
+[LinkedIn](https://www.linkedin.com/in/iampranav009/) · [Instagram](https://www.instagram.com/iampranav_009)
