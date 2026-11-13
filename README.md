@@ -33,9 +33,6 @@ Founder, Himmer AI — no-code AI apps · **20,000+ users**
 **Platforms:** WordPress · WooCommerce · Notion
 **Payments & Shipping:** Razorpay · Cashfree · Shiprocket
 
-## 📊 GitHub Stats
-
-
 ## 🚀 Featured Projects
 
 | Project | What it does |
